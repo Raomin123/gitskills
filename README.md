@@ -1,4 +1,3 @@
 # gitskills
 我的学习
-branch dev test
-Creating a new branch is quick & simple.
+branch dev testCreating a new branch is quick and simple.
